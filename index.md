@@ -1,8 +1,8 @@
 ---
-title: Hồ sơ nhập ngành
+title: Hồ sơ nhập ngành KHMT
 ---
 
-# Nguyễn Văn An
+# Lê Hoàng An
 
 <!-- ========= PHẦN TÓM TẮT — bốn dòng, người đọc thấy trong sáu giây đầu =========
      Điền ở Bài 6. Bốn dòng, không hơn. Xem tờ "Trang chủ chính là CV".
