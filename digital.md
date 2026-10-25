@@ -22,10 +22,10 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 | # | Nhóm năng lực | Mức của tôi | Bằng chứng, mô tả bằng lời |
 |---|---|---|---|
 | 1 | Vận hành thiết bị và phần mềm | chưa có | … |
-| 2 | Năng lực thông tin và dữ liệu | Dùng được | Biết dùng Google tìm kiếm slide bài giảng, tài liệu học tập |
-| 3 | Giao tiếp và hợp tác trong môi trường số | Dùng được | Sử dụng Zalo nhóm, Google Meet và Messenger để trao đổi và làm bài tập nhóm hiệu quả. |
+| 2 | Năng lực thông tin và dữ liệu | Dùng được | Biết dùng Google, Chrome tìm kiếm slide bài giảng, tài liệu học tập |
+| 3 | Giao tiếp và hợp tác trong môi trường số | Dùng được | Sử dụng Zalo nhóm, Google Meet, Zoom và Messenger để trao đổi và làm bài tập nhóm hiệu quả. |
 | 4 | Sáng tạo nội dung số | Đang tập | Biết sử dụng Canva để làm slide thuyết trình và đang học cách trình bày tài liệu bằng ngôn ngữ Markdown. |
-| 5 | An ninh và an toàn trên không gian mạng | Dùng được | Đã bật bảo mật 2 lớp cho Email sinh viên và Facebook, biết đặt mật khẩu mạnh kết hợp chữ và số. |
+| 5 | An ninh và an toàn trên không gian mạng | Dùng được | Đã bật bảo mật 2 lớp cho Email sinh viên, Zalo và Facebook, biết đặt mật khẩu mạnh kết hợp chữ và số. |
 | 6 | Học tập và phát triển kỹ năng số | đang tập | Tự tìm và xem các video hướng dẫn tự học lập trình C/C++ cơ bản trên YouTube và các trang web học tập. |
 | 7 | Năng lực số liên quan đến nghề nghiệp | Đang tập |  Đã tạo tài khoản GitHub cá nhân |
 
@@ -53,13 +53,13 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 ## Ba việc tôi sẽ sửa trong tháng này
 
-1. Chuyển toàn bộ các bài viết, ảnh cũ từ thời cấp 2 trên Facebook cá nhân về chế độ "Bè bạn" hoặc "Chỉ mình tôi".
+1. Chuyển toàn bộ các bài viết, ảnh cũ từ thời cấp 1,2,3 trên Facebook cá nhân về chế độ "Bạn bè" hoặc "Chỉ mình tôi".
 2. Gom gọn các file bài tập, slide môn học lộn xộn ở Desktop vào các thư mục theo từng môn rõ ràng trên Google Drive.
 3. Đổi mật khẩu Email sinh viên và tài khoản LMS sang chuỗi mật khẩu mạnh hơn, kèm bật bảo mật 2 lớp qua số điện thoại hoặc ứng dụng.
 
 ## Tôi đã làm việc với AI thế nào
 
-Ở bài này AI đóng vai **người kèm cặp**: nó hỏi ngược lại tôi thay vì đưa đáp án.
+Ở bài này AI đóng vai **người gia sư **: nó hỏi ngược lại tôi thay vì đưa đáp án.
 
 | Bước | Tôi đã làm gì |
 |---|---|
