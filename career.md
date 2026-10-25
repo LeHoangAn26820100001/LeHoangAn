@@ -11,7 +11,7 @@ title: Chân dung nghề của tôi
 
 
 
-Vì sao: Công việc này cho phép tôi sử dụng thuật toán và mã nguồn để xây dựng các giải pháp thực tế, biến những ý tưởng trừu tượng thành sản phẩm cụ thể và vì công nghệ luôn thay đổi và cập nhật mỗi ngày, đòi hỏi bản thân phải liên tục học hỏi, giúp công việc luôn mới mẻ và không bị nhàm chán.
+Vì sao: Công việc này nó đòi hỏi tư duy xử lí vấn đề nhanh và chính xác, cho phép tôi sử dụng thuật toán và mã nguồn để xử lí công việc, vì thế tôi phải không ngừng học hỏi, tích lũy thật nhiều kiến thức, kinh nghiệm để giải quyết nó và biến chúng thành những điều đơn giản nhất .
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
@@ -28,9 +28,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | CÔNG TY TNHH CÔNG NGHỆ BLUEOC | Kỹ Sư Lập Trình Nhúng C/C++ | https://www.topcv.vn/viec-lam/ky-su-lap-trinh-nhung-c-c/2297755.html?ta_source=JobSearchList_LinkDetail&u_sr_id=YbkNPBiluwLFgQNed89n2zJJ7AuVoeVzhohrbF0k_1789889804 | 13/9/2026 |
-| 2 | Công ty Cổ phần BiboMart TM | NET Backend Developer | https://www.topcv.vn/viec-lam/net-backend-developer/2299067.html?ta_source=JobSearchList_LinkDetail&u_sr_id=YbkNPBiluwLFgQNed89n2zJJ7AuVoeVzhohrbF0k_1789889804 | 15/9/2026 |
-| 3 | CÔNG TY CỔ PHẦN VIBOTICS | Fullstack Developer | https://www.topcv.vn/viec-lam/fullstack-developer/2300787.html?ta_source=JobSearchList_LinkDetail&u_sr_id=YbkNPBiluwLFgQNed89n2zJJ7AuVoeVzhohrbF0k_1789889804 | 15/9/2026 
+| 1 | CÔNG TY TNHH CÔNG NGHỆ BLUEOC | Kỹ Sư Lập Trình Nhúng C/C++ | https://www.topcv.vn/viec-lam/ky-su-lap-trinh-nhung-c-c/2297755.html?ta_source=JobSearchList_LinkDetail&u_sr_id=YbkNPBiluwLFgQNed89n2zJJ7AuVoeVzhohrbF0k_1789889804 | 15/9/2026 |
+| 2 | Công ty Cổ phần BiboMart TM | NET Backend Developer | https://www.topcv.vn/viec-lam/net-backend-developer/2299067.html?ta_source=JobSearchList_LinkDetail&u_sr_id=YbkNPBiluwLFgQNed89n2zJJ7AuVoeVzhohrbF0k_1789889804 | 16/9/2026 |
+| 3 | CÔNG TY CỔ PHẦN VIBOTICS | Fullstack Developer | https://www.topcv.vn/viec-lam/fullstack-developer/2300787.html?ta_source=JobSearchList_LinkDetail&u_sr_id=YbkNPBiluwLFgQNed89n2zJJ7AuVoeVzhohrbF0k_1789889804 | 16/9/2026 
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
@@ -58,8 +58,8 @@ Tình huống: thu thập vị trí người dùng mà không khai báo trong ch
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. Hoàn thành ít nhất 30 bài tập lập trình mức độ Dễ/Trung bình trên nền tảng LeetCode
-2. Rèn luyện khả năng đọc nói hiểu tiếng anh và học từ vựng tiếng Anh chuyên ngành
+1. Hoàn thành ít nhất 50 bài tập lập trình mức độ Dễ/Trung bình trên nền tảng LeetCode
+2. Rèn luyện khả năng đọc, dịch những từ tiếng anh chuyên ngành và trao đổi học thêm ngôn ngữ khác thuận tiện cho công việc sau này
 3. Tạo 1 trang github chuyên nghiệp, đầy đủ thông tin và đủ các phần của học kỳ
 
 Cụ thể tới mức tháng sau kiểm được.
