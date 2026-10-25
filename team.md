@@ -6,7 +6,7 @@ title: Cẩm nang làm việc nhóm
 
 
 
-**Nhóm:** Little boy - Lớp 26DCSA1 · **Thành viên:** Nguyễn Đinh Anh Tuấn, Phan Ngọc Phong
+**Nhóm:** Gián có đáng yêu không - Lớp 26DCSA1 · **Thành viên:** Lê Hoàng An, Lê Đam
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
 
@@ -20,7 +20,7 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 
 **Vấn đề thật (sau khi bóc):** Thành viên trì hoãn do nhiệm vụ được giao quá lớn, mơ hồ và nhóm thiếu quy trình chia nhỏ công việc
 
-*Người viết phần này: Nguyễn Đinh Anh Tuấn*
+*Người viết phần này: Lê Hoàng An*
 
 ### 2. Cách đo và số liệu
 
@@ -34,7 +34,7 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 | Ngày 3 - 5 | 5 lần trễ phản hồi, thời gian chờ trung bình: 3 tiếng | Bắt đầu nhắc nhở quy tắc bật thông báo ứng dụng |
 | Ngày 6 - 7 | 0 lần trễ phản hồi, thời gian chờ trung bình: 15 - 30 phút | Áp dụng khung giờ trực tin nhắn cố định (12h - 13h và 20h - 22h) |
 
-*Người viết phần này: Phan Ngọc phong*
+*Người viết phần này: Lê Đam*
 
 ### 3. Nguyên nhân gốc
 
@@ -46,7 +46,7 @@ Chuỗi năm lần hỏi "vì sao", ghi đủ từng lớp.
 4. Vì sao chỉ nói miệng,nhắn chung chung? → Vì nhóm chưa có thói quen làm rõ tiêu chí hoàn thành
 5. Vì sao chưa có thói quen làm rõ tiêu chí hoàn thành? → Vì nhóm thiếu quy trình chuẩn bị và chia nhỏ công việc ngay từ đầu dự án.
 
-*Người viết phần này: Nguyễn Đinh Anh Tuấn*
+*Người viết phần này: Lê Hoàng An*
 
 ### 4. Ba giải pháp đã thử
 
@@ -58,7 +58,7 @@ Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái 
 | Đặt hạn chót sớm hơn 3 ngày so với deadline thật | Phan Ngọc Phong | 4 ngày | Thành viên biết đó là hạn giả nên vẫn dồn vào đúng đêm chót mới làm | Thất bại |
 | Chia task nhỏ | Nguyễn Đinh Anh Tuấn | 3 ngày | 100% task hoàn thành đúng hạn | Thành công |
 
-*Người viết phần này: Phan Ngọc Phong*
+*Người viết phần này: Lê Đam*
 
 ### 5. Cẩm nang cho người sau
 
@@ -70,7 +70,7 @@ Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
 **Cảnh báo cụ thể cho nhóm khoá sau:** Tuyệt đối đừng bao giờ tin câu "Tối nay tớ làm xong" nếu task đó chưa được chia nhỏ! Hãy bắt người đó liệt kê chi tiết các bước nhỏ cần làm ngay từ đầu tuần, nếu không bạn sẽ phải gánh bài vào đêm chót.
 
-*Người viết phần này: Nguyễn Đinh Anh Tuấn*
+*Người viết phần này: Lê Hoàng An*
 
 ## 1. Cách chia việc
 
@@ -78,7 +78,7 @@ Chia nhỏ công việc thành các Issue
 Mỗi Issue phải ghi rõ: Tên task, Người làm, Hạn chót
 Mỗi người chỉ nhận tối đa 2 task cùng lúc để tránh quá tải.
 
-*Người viết phần này: Phan Ngọc Phong*
+*Người viết phần này: Lê Đam*
 
 ## 2. Cách đặt hạn cho nhau
 
@@ -86,7 +86,7 @@ Hạn nội bộ luôn trước hạn nộp của giảng viên 48 giờ để d
 Báo cáo tiến độ lúc 21:00 hằng ngày.
 Kẹt lỗi quá 2 tiếng phải nhắn nhóm hỗ trợ ngay, tuyệt đối không giấu lỗi đến sát giờ nộp.
 
-*Người viết phần này: Nguyễn Đinh Anh Tuấn*
+*Người viết phần này: Lê Hoàng An*
 
 ## 3. Cách họp
 
@@ -94,21 +94,21 @@ Họp ở đâu, bao lâu một lần, mỗi lần bao nhiêu phút, ai chốt k
 
 Họp Google Meet, Trưởng nhóm chốt phân công và ghi tóm tắt và giấy
 
-*Người viết phần này: Phan Ngọc Phong*
+*Người viết phần này: Lê Đam*
 
 ## 4. Khi một người mất tích
 
 Trưởng nhóm gọi điện thoại trực tiếp.
 Thu hồi task phân cho thành viên khác; đồng thời trừ % đóng góp trong bảng đánh giá gửi giảng viên.
 
-*Người viết phần này: Nguyễn Đinh Anh Tuấn*
+*Người viết phần này: Lê Hoàng An*
 
 ## 5. Khi bất đồng thì quyết thế nào
 
 Chuẩn bị bằng chứng kĩ thuật trong 15 phút, không tranh cãi suông.
 Bỏ phiếu theo đa số, Trưởng nhóm chốt quyết định cuối cùng.
 
-*Người viết phần này: Phan Ngọc Phong*
+*Người viết phần này: Lê Đam*
 
 ## Nhóm tôi đã cãi nhau ở chỗ nào
 
