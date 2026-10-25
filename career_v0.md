@@ -7,11 +7,11 @@ title: Chân dung nghề của tôi
 > **Bài 1 · Xoá dòng này khi nộp.** Mọi chỗ có dấu … là chỗ em điền.
 > Đọc kỹ đề bài trên LMS trước khi viết. Bảy mục dưới đây là bắt buộc.
 
-## Hướng tôi nhắm
+## Hướng tôi nhắm kỹ sư phần mềm
 
 …
 
-Vì sao: …
+Vì sao: công việc này là em đam mê từ nhỏ và em đặc biệt mê về thuật toán và mã nguồn nên sau này em muốn trở thành 1 kỹ sư pần mềm
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
