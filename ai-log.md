@@ -23,8 +23,8 @@ title: Nhật ký dùng AI
 
 ## Điều tôi học được về cách làm việc với nó
 
-1. **AI là trợ lý, không phải thuyền trưởng:** AI chỉ phát huy tối đa hiệu quả khi người dùng đã có tư duy nền tảng vững chắc để biết mình muốn gì và đánh giá được kết quả đầu ra.
-2. **Luôn giữ tinh thần hoài nghi khoa học:** Không bao giờ tin tưởng 100% vào số liệu, cú pháp code hay điều khoản do AI trích xuất nếu chưa đối chiếu trực tiếp với tài liệu gốc.
+1. **AI là trợ lý, không phải giám đốc:** AI chỉ phát huy tối đa hiệu quả khi người dùng đã có tư duy nền tảng vững chắc để biết mình muốn gì và đánh giá được kết quả đầu ra.
+2. **Luôn giữ tinh thần hoài nghi khoa học-kĩ thuật:** Không bao giờ tin tưởng 100% vào số liệu, cú pháp code, đoạn mã hay điều khoản do AI trích xuất nếu chưa đối chiếu trực tiếp với tài liệu gốc.
 
 
 
