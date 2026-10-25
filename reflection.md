@@ -29,8 +29,8 @@ Tôi sẽ viết lại trang Cẩm nang của nhóm tôi, theo cách nghiên c�
 
 ## Ba điều tôi mang sang học kỳ sau
 
-1. **Kỹ năng đặt câu hỏi có bối cảnh:** Luôn phân vai, nêu rõ mục đích và đối tượng người nghe cho AI trước khi xin gợi ý.
-2. **Thói quen hoài nghi khoa học:** Không bao giờ tin ngay thông tin AI đưa ra mà luôn tra cứu, đối chiếu lại với tài liệu uy tín.
-3. **Kỹ năng quản lý thời gian:** Chia nhỏ bài tập lớn thành từng việc hàng ngày để không bị rơi vào tình trạng làm vội cho xong.
+1. **Kỹ năng đặt câu hỏi có bối cảnh:** Luôn phân vai, nêu rõ mục đích và đối tượng người nghe cho AI trước khi xin gợi ý, đề xuất.
+2. **Thói quen hoài nghi khoa học:** Không bao giờ tin ngay thông tin AI đưa ra mà luôn tra cứu, đối chiếu lại với tài liệu uy tín, tìm các trang web uy tín và tra cứu lại nhiều lần.
+3. **Kỹ năng quản lý thời gian:** Chia nhỏ bài tập lớn thành từng việc nhỏ hàng ngày để không bị rơi vào tình trạng làm nhanh, vội cho xong.
 
 
